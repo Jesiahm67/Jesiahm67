@@ -1,6 +1,6 @@
 ## Greetings mortal human 
 
-<h1 align="center">Greetings mortal human Jesiah</h1>
+<h1 align="center">Greetings mortal human</h1>
 <h3 align="center">A passionate frontend/software developer from new york</h3>
 
 - 🔭 I’m currently working on my readme **Jesiahm67**
